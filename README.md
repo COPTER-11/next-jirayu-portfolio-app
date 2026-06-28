@@ -1,36 +1,46 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+🚀 Jirayu (Copter) Portfolio
+ยินดีต้อนรับสู่พอร์ตโฟลิโอส่วนตัวของผม จิรายุ นิติเรืองเวชกุล (กัน/Copter) - นักพัฒนาซอฟต์แวร์ที่มุ่งเน้นการสร้างประสบการณ์ดิจิทัลที่ทันสมัยและมีประสิทธิภาพ เว็บไซต์นี้ถูกสร้างขึ้นเพื่อนำเสนอโปรเจกต์ ผลงาน และทักษะด้านการพัฒนาซอฟต์แวร์ของผม
 
-## Getting Started
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1ca84d30-ebbb-4b43-9f2a-0efd48eb20b8" alt="Portfolio Preview" width="800" />
+</p>
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+🛠 Tech Stack
+โปรเจกต์นี้เลือกใช้เทคโนโลยีที่เป็นมาตรฐานอุตสาหกรรมในปัจจุบัน:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Framework: Next.js 14+ (App Router)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Styling: Tailwind CSS (Modern, Responsive & Dark Theme)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Fonts: Google Fonts (Inter, Kanit, Roboto Mono)
 
-## Learn More
+Deployment: Vercel (CI/CD Pipeline)
 
-To learn more about Next.js, take a look at the following resources:
+Language: JavaScript (ES6+)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+✨ Key Features
+Performance Optimization: ใช้ next/image เพื่อทำ Image Optimization ทำให้เว็บโหลดเร็วและรองรับทุกอุปกรณ์
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Modern UI/UX: ออกแบบในสไตล์ Modern Dark Mode พร้อม Glassmorphism Effects เพื่อประสบการณ์การใช้งานที่พรีเมียม
 
-## Deploy on Vercel
+Responsive Design: ออกแบบมาให้แสดงผลได้สมบูรณ์แบบทั้ง Desktop, Tablet และ Mobile
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Dynamic Navigation: ระบบ NavBar ที่แสดง Active State ให้ผู้ใช้ทราบตำแหน่งปัจจุบันของหน้าเว็บตลอดเวลา
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Seamless Interaction: เพิ่มลูกเล่น Hover Effects และ Ambient Backgrounds เพื่อความลื่นไหลในการใช้งาน
+
+👨‍💻 About Me
+ผมเป็นนักศึกษาจากมหาวิทยาลัยเอเชียอาคเนย์ (SEAU) รุ่น DEK68 ผู้มีความหลงใหลในการแก้ปัญหาด้วยเทคโนโลยี ผมให้ความสำคัญกับ Clean Code และการเรียนรู้สิ่งใหม่ๆ อยู่เสมอ โดยมีเป้าหมายหลักในการเป็น Software Engineer ที่สร้างโซลูชันที่ส่งผลกระทบเชิงบวกต่อผู้ใช้งานจริง
+
+📬 Contact
+หากคุณมีคำถาม หรือต้องการแลกเปลี่ยนความรู้ สามารถติดต่อผมได้ที่:
+
+- **Email:** [ter212548@gmail.com](mailto:ter212548@gmail.com)
+- **GitHub:** [github.com/COPTER-11](https://github.com/COPTER-11)
+
+<div align="center">
+  <h3>
+    <a href="https://next-jirayu-portfolio-app-7squ.vercel.app/">🚀 ดูเว็บไซต์จริงที่นี่ (Live Demo)</a>
+  </h3>
+</div>
